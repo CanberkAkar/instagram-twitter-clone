@@ -1,3 +1,4 @@
+- Hi. I have an Instagram/Twitter clone application using html, css, js.
 - 📫 How to reach me **akarcanberk@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
